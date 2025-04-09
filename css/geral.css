@@ -1,8 +1,20 @@
+@import url("header.css");
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+:root {
+  --backgraund-header-nav: #FFFFFF;
+  --font-nav-color: #191619;
+  --btn-button: #0CBBC7;
+  --btn-button-hove: #09ACC7;
+  --font-nav-color-hove: #09ACB7;
+}
+a {
   text-decoration: none;
+}
+li {
   list-style: none;
 }
 html {
