@@ -1,0 +1,10 @@
+.section_ilustra {
+  position: relative;
+  max-width: 100%;
+}
+.section_ilustra_img {
+  position: absolute;
+  max-width: 80rem;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
